@@ -1,4 +1,7 @@
-# CPP-Project
+# CPP-Project 
+
+# IT Club Management 
+
 IT Club Management : The provided code is a console-based program that provides basic functionality for managing a club's membership and events.
 
 Membership Management: The code allows users to add new members to the club, delete existing members, search for specific members, view the details of a member, and edit the information of a member.
